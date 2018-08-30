@@ -1,0 +1,22 @@
+{
+  "name": "uml_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamazki/uml_viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yamazki/uml_viewer/issues"
+  },
+  "homepage": "https://github.com/yamazki/uml_viewer#readme",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
